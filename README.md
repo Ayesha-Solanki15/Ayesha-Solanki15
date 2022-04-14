@@ -1,5 +1,4 @@
 Hola👋, Ayesha here!
-
 ✔🔭 I’m currently working on Frontend Projects
 ✔🌱 I’m currently learning React
 -👯 I’m looking to collaborate on some projects
