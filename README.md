@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Frontend Projects**
 
-- 🌱 I’m currently looking forward *** to learn new technologies and focus on it's application.***
+- 🌱 I’m currently looking forward ***to learn new technologies and focus on it's application.***
 
 - 👯 I’m looking to collaborate on ***OpenSource Projects***
 
